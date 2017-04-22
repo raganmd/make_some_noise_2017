@@ -1,5 +1,5 @@
 # makeSomeNoise2017
-Support materials for a TouchDesigner Workshop / Makeshop hosted by Obscura Digital in San Francisco CA.
+*Support materials for a TouchDesigner Workshop / Makeshop hosted by Obscura Digital in San Francisco CA.*
 
 The shape of noise can be found in all sorts of elements in our daily lives – the shape of clouds, irregularities in textures, the haunting background radiation of dead stars that still cloud the images of our radio telescopes. Come join in the fun of looking at how you might use noise to shape some of your artistic work in a two day workshop at Obscura Digital. Over the course of two days we’ll look at various applications of noise, and engage in some directed exploratory artistic exercises to help you push the edges of how you think about and use pseudo-random numbers.
 
