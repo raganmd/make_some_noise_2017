@@ -49,12 +49,13 @@ Enough of this talk, let’s start making.
 
 |TIME | TOPIC |
 |--- | --- |
-|10:00 – 11:00 |  Challenge 1
-|11:00 – 12:00 |  Share and Iterate
+|10:00 – 11:00 |    Block 1 Noise and Geometry Shaders - Displacement along the Normal
+|11:00 – 12:00 |  Challenge 1 - Noise as Landscape and Topography
 |12:00 |  LUNCH
-|1:00 – 2:00 | Challenge 2
-|2:00 – 3:00 | Share and Iterate
-|3:00  |  Wrap
-Overview of the Day
+|1:00 – 1:30 | Wander and Collect Concepts
+|1:30 – 2:00 | Concept Integration
+|2:00 - 2:30 | Block 2 - Displacement and Lookups
+|2:30 - 3:00 | Finalize and Show Off
+
 
 Day 2 is all about exploration, creation, and iteration. We’ll take the concepts from Day 1 and just play. Take the time to make 1 sketch that really speaks to you, or make 10 different sketches that all explore different ideas. Over the course of the day you’ll be given some prompts to guide your explorations, and we’ll also take time to share discoveries with the rest of the group, ask questions, and continue to iterate on your work. Iteration is one of the most important pieces of this kind of puzzle, and we’ll allow ourselves the space to play, tweek, and get feedback from others. If there’s something that’s especially exciting/frustrating/confusing we’ll take a moment to talk about it with the group.
